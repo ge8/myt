@@ -1,0 +1,38 @@
+.header, .logo, .navigation, .main, .footer {
+   border: solid 1px black;
+}
+
+.header {
+  position: fixed;
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.logo {
+  color: MediumAquamarine;
+}
+
+.navigation {
+  display: inline-block;
+}
+
+.main {
+  display: flex;
+}
+
+.large {
+  width: 630px;
+  display: flex;
+}
+
+.medium {
+  width: 300px;
+  display: flex;
+}
+
+.small {
+  width: 240px;
+  display: flex;
+}
