@@ -42,6 +42,12 @@ nav span {
 }
 
 /*Stories*/
+p {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
 .main {
   display: inline-flex;
   width: 1232px;
@@ -70,9 +76,10 @@ nav span {
 }
 
 .image {
+  display: flex;
   height: 300px;
   margin-top: 0;
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
   color: white;
   font-family: georgia;
